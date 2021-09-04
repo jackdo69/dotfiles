@@ -26,5 +26,5 @@ npm install -g dockerfile-language-server-nodejs
 
 #ansiblels
 npm install -g ansible-language-server
-
+pip3 install "ansible-lint[core,yamllint]"
 ```
